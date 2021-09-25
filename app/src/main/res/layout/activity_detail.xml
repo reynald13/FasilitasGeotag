@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="40dp"
+        android:text="Detail Fasilitas"
+        android:textColor="@color/Black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="nama"
+        android:textColor="@color/Black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textBidang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="bidang"
+        android:textColor="@color/Black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="nama user"
+        android:textColor="@color/Black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="telepon"
+        android:textColor="@color/Black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textDeskripsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="deskripsi"
+        android:textColor="@color/Black"
+        android:textSize="20sp" />
+
+</LinearLayout>

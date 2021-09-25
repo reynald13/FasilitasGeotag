@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Sifasilitas</string>
+
+    <string name="google_maps_api_key">AIzaSyBSioKVN-VT6bQM5l4Iw6U2xXhM1oxfqUs</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+    <!-- Strings related to login -->
+    <string name="login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+
+    <!-- Other menus -->
+    <string name="lihat_list_user">Lihat fasilitas</string>
+    <string name="lihat_list_koordinator">Lihat semua fasilitas</string>
+    <string name="lihat_peta">Lihat peta</string>
+    <string name="lihat_info">Info</string>
+
+
+    <!-- Dialog/Fragment names -->
+    <string name="dialog_new_facility">New Facility Dialog</string>
+    <string name="dialog_view_facility">View Facility Dialog</string>
+    <!--<string name="dialog_view_facility">View Facility Dialog</string> -->
+
+    <!-- Strings -->
+    <string name="facility_title">Nama</string>
+    <string name="facility_content">Deskripsi</string>
+
+     <!--Firestore Strings
+    <string name="collection_facilities">facilities</string>
+    <string name="collection_facility_locations">Fasilitas Locations</string>-->
+
+    <string name="register">Register</string>
+
+</resources>

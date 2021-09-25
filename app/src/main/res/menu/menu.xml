@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/buttonlogin"
+        android:title="@string/login"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/buttonlist"
+        android:title="@string/lihat_list_user"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/buttoninfo"
+        android:title="@string/lihat_info"
+        android:icon="@drawable/ic_info"
+        app:showAsAction="ifRoom" />
+
+</menu>

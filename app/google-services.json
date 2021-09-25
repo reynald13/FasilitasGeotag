@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839516927048",
+    "firebase_url": "https://geotagfasilitas-244913.firebaseio.com",
+    "project_id": "geotagfasilitas-244913",
+    "storage_bucket": "geotagfasilitas-244913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839516927048:android:1c917009a254a0e5",
+        "android_client_info": {
+          "package_name": "android.com.fasilitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839516927048-n95srpv9iursvkbd5st2iehv2oi1e4ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSioKVN-VT6bQM5l4Iw6U2xXhM1oxfqUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839516927048-n95srpv9iursvkbd5st2iehv2oi1e4ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
